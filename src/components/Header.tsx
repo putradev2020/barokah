@@ -77,7 +77,9 @@ const Header: React.FC<HeaderProps> = ({ currentPage, onNavigate }) => {
             </div>
             <div className="min-w-0">
               <h1 className="text-sm sm:text-lg md:text-xl lg:text-2xl xl:text-3xl font-bold text-gray-900 leading-tight transition-colors duration-300 group-hover:text-blue-600">Barokah Printer</h1>
-              <p className="text-xs sm:text-sm md:text-base text-gray-600 leading-tight hidden sm:block">Service Printer Terpercaya</p>
+              <p className="text-xs sm:text-sm md:text-base text-gray-600 leading-tight hidden sm:block">Penjualan, Service, Sparepart, Sewa Printer, Lelang Kantor</p>
+              <p className="text-xs sm:text-sm text-gray-600 leading-tight hidden lg:block">Jl. Depati Parbo Pematang Sulur, Rt. 017 Kota Jambi</p>
+              <p className="text-xs sm:text-sm text-gray-600 leading-tight hidden lg:block">Telp/WA: 0853 6814 8449 / 0822 5347 1928</p>
             </div>
           </div>
 
