@@ -53,6 +53,8 @@ import {
   deleteTechnician
 } from '../utils/supabaseData';
 import { getAllBookings, updateBookingStatus, assignTechnician, updateActualCost } from '../utils/bookingSupabase';
+import { updateBookingStatus, assignTechnician, updateActualCost } from '../utils/supabaseData';
+import { getAllBookings } from '../utils/bookingSupabase';
 import { supabase } from '../utils/supabase';
 import Swal from 'sweetalert2';
 
